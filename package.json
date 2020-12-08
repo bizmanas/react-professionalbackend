@@ -1,0 +1,24 @@
+{
+  "name": "react-professionalbackend",
+  "version": "1.0.0",
+  "description": "This is a CRM system backend service for customer",
+  "main": "\t",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bizmanas/react-professionalbackend.git"
+  },
+  "keywords": [
+    "customers",
+    "react",
+    "backend"
+  ],
+  "author": "Manas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bizmanas/react-professionalbackend/issues"
+  },
+  "homepage": "https://github.com/bizmanas/react-professionalbackend#readme"
+}
